@@ -1,0 +1,1491 @@
+fileFormatVersion: 2
+guid: e2933b5d8a4ecc84cb29d0ec90f2612a
+ModelImporter:
+  serializedVersion: 21100
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Armature
+  - first:
+      1: 100002
+    second: B Husk Lower.l
+  - first:
+      1: 100004
+    second: B Husk Lower.l_end
+  - first:
+      1: 100006
+    second: B Husk Lower.r
+  - first:
+      1: 100008
+    second: B Husk Lower.r_end
+  - first:
+      1: 100010
+    second: B Husk Upper.l
+  - first:
+      1: 100012
+    second: B Husk Upper.r
+  - first:
+      1: 100014
+    second: B Leg Lower.l
+  - first:
+      1: 100016
+    second: B Leg Lower.r
+  - first:
+      1: 100018
+    second: B Leg Mid.l
+  - first:
+      1: 100020
+    second: B Leg Mid.r
+  - first:
+      1: 100022
+    second: B Leg Upper.l
+  - first:
+      1: 100024
+    second: B Leg Upper.r
+  - first:
+      1: 100026
+    second: //RootNode
+  - first:
+      1: 100028
+    second: Ear.l
+  - first:
+      1: 100030
+    second: Ear.l_end
+  - first:
+      1: 100032
+    second: Ear.r
+  - first:
+      1: 100034
+    second: Ear.r_end
+  - first:
+      1: 100036
+    second: F Husk Lower.l
+  - first:
+      1: 100038
+    second: F Husk Lower.l_end
+  - first:
+      1: 100040
+    second: F Husk Lower.r
+  - first:
+      1: 100042
+    second: F Husk Lower.r_end
+  - first:
+      1: 100044
+    second: F Husk Upper.l
+  - first:
+      1: 100046
+    second: F Husk Upper.r
+  - first:
+      1: 100048
+    second: F Leg Lower.l
+  - first:
+      1: 100050
+    second: F Leg Lower.r
+  - first:
+      1: 100052
+    second: F Leg Mid.l
+  - first:
+      1: 100054
+    second: F Leg Mid.r
+  - first:
+      1: 100056
+    second: F Leg Upper.l
+  - first:
+      1: 100058
+    second: F Leg Upper.r
+  - first:
+      1: 100060
+    second: Hip
+  - first:
+      1: 100062
+    second: Jaw
+  - first:
+      1: 100064
+    second: Jaw Base
+  - first:
+      1: 100066
+    second: Jaw_end
+  - first:
+      1: 100068
+    second: LP Cow
+  - first:
+      1: 100070
+    second: Neck Base
+  - first:
+      1: 100072
+    second: Neck Lower
+  - first:
+      1: 100074
+    second: Neck Mid
+  - first:
+      1: 100076
+    second: Neck Upper
+  - first:
+      1: 100078
+    second: Skull
+  - first:
+      1: 100080
+    second: Spine Lower
+  - first:
+      1: 100082
+    second: Spine Mid
+  - first:
+      1: 100084
+    second: Spine Upper
+  - first:
+      1: 100086
+    second: Tail 1
+  - first:
+      1: 100088
+    second: Tail 10
+  - first:
+      1: 100090
+    second: Tail 11
+  - first:
+      1: 100092
+    second: Tail 11_end
+  - first:
+      1: 100094
+    second: Tail 2
+  - first:
+      1: 100096
+    second: Tail 3
+  - first:
+      1: 100098
+    second: Tail 4
+  - first:
+      1: 100100
+    second: Tail 5
+  - first:
+      1: 100102
+    second: Tail 7
+  - first:
+      1: 100104
+    second: Tail 8
+  - first:
+      1: 100106
+    second: Tail 9
+  - first:
+      1: 100108
+    second: Tail Base
+  - first:
+      1: 100110
+    second: Tits
+  - first:
+      1: 100112
+    second: Tits_end
+  - first:
+      4: 400000
+    second: Armature
+  - first:
+      4: 400002
+    second: B Husk Lower.l
+  - first:
+      4: 400004
+    second: B Husk Lower.l_end
+  - first:
+      4: 400006
+    second: B Husk Lower.r
+  - first:
+      4: 400008
+    second: B Husk Lower.r_end
+  - first:
+      4: 400010
+    second: B Husk Upper.l
+  - first:
+      4: 400012
+    second: B Husk Upper.r
+  - first:
+      4: 400014
+    second: B Leg Lower.l
+  - first:
+      4: 400016
+    second: B Leg Lower.r
+  - first:
+      4: 400018
+    second: B Leg Mid.l
+  - first:
+      4: 400020
+    second: B Leg Mid.r
+  - first:
+      4: 400022
+    second: B Leg Upper.l
+  - first:
+      4: 400024
+    second: B Leg Upper.r
+  - first:
+      4: 400026
+    second: //RootNode
+  - first:
+      4: 400028
+    second: Ear.l
+  - first:
+      4: 400030
+    second: Ear.l_end
+  - first:
+      4: 400032
+    second: Ear.r
+  - first:
+      4: 400034
+    second: Ear.r_end
+  - first:
+      4: 400036
+    second: F Husk Lower.l
+  - first:
+      4: 400038
+    second: F Husk Lower.l_end
+  - first:
+      4: 400040
+    second: F Husk Lower.r
+  - first:
+      4: 400042
+    second: F Husk Lower.r_end
+  - first:
+      4: 400044
+    second: F Husk Upper.l
+  - first:
+      4: 400046
+    second: F Husk Upper.r
+  - first:
+      4: 400048
+    second: F Leg Lower.l
+  - first:
+      4: 400050
+    second: F Leg Lower.r
+  - first:
+      4: 400052
+    second: F Leg Mid.l
+  - first:
+      4: 400054
+    second: F Leg Mid.r
+  - first:
+      4: 400056
+    second: F Leg Upper.l
+  - first:
+      4: 400058
+    second: F Leg Upper.r
+  - first:
+      4: 400060
+    second: Hip
+  - first:
+      4: 400062
+    second: Jaw
+  - first:
+      4: 400064
+    second: Jaw Base
+  - first:
+      4: 400066
+    second: Jaw_end
+  - first:
+      4: 400068
+    second: LP Cow
+  - first:
+      4: 400070
+    second: Neck Base
+  - first:
+      4: 400072
+    second: Neck Lower
+  - first:
+      4: 400074
+    second: Neck Mid
+  - first:
+      4: 400076
+    second: Neck Upper
+  - first:
+      4: 400078
+    second: Skull
+  - first:
+      4: 400080
+    second: Spine Lower
+  - first:
+      4: 400082
+    second: Spine Mid
+  - first:
+      4: 400084
+    second: Spine Upper
+  - first:
+      4: 400086
+    second: Tail 1
+  - first:
+      4: 400088
+    second: Tail 10
+  - first:
+      4: 400090
+    second: Tail 11
+  - first:
+      4: 400092
+    second: Tail 11_end
+  - first:
+      4: 400094
+    second: Tail 2
+  - first:
+      4: 400096
+    second: Tail 3
+  - first:
+      4: 400098
+    second: Tail 4
+  - first:
+      4: 400100
+    second: Tail 5
+  - first:
+      4: 400102
+    second: Tail 7
+  - first:
+      4: 400104
+    second: Tail 8
+  - first:
+      4: 400106
+    second: Tail 9
+  - first:
+      4: 400108
+    second: Tail Base
+  - first:
+      4: 400110
+    second: Tits
+  - first:
+      4: 400112
+    second: Tits_end
+  - first:
+      43: 4300000
+    second: LP Cow
+  - first:
+      74: 7400000
+    second: Chewing
+  - first:
+      74: 7400002
+    second: Idle
+  - first:
+      74: 7400004
+    second: Moo
+  - first:
+      74: 7400006
+    second: Tail Swipe
+  - first:
+      74: 7400008
+    second: Walk
+  - first:
+      74: 7400010
+    second: LP Cow|Idle
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: LP Cow
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Chewing
+      takeName: Armature|Chewing
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Hip
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.l
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.l/B Leg Mid.l
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.l/B Leg Mid.l/B Leg Lower.l
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.l/B Leg Mid.l/B Leg Lower.l/B Husk Upper.l
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.l/B Leg Mid.l/B Leg Lower.l/B Husk Upper.l/B
+          Husk Lower.l
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.l/B Leg Mid.l/B Leg Lower.l/B Husk Upper.l/B
+          Husk Lower.l/B Husk Lower.l_end
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.r
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.r/B Leg Mid.r
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.r/B Leg Mid.r/B Leg Lower.r
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.r/B Leg Mid.r/B Leg Lower.r/B Husk Upper.r
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.r/B Leg Mid.r/B Leg Lower.r/B Husk Upper.r/B
+          Husk Lower.r
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.r/B Leg Mid.r/B Leg Lower.r/B Husk Upper.r/B
+          Husk Lower.r/B Husk Lower.r_end
+        weight: 1
+      - path: Armature/Hip/Tail Base
+        weight: 1
+      - path: Armature/Hip/Tail Base/Tail 1
+        weight: 1
+      - path: Armature/Hip/Tail Base/Tail 1/Tail 2
+        weight: 1
+      - path: Armature/Hip/Tail Base/Tail 1/Tail 2/Tail 3
+        weight: 1
+      - path: Armature/Hip/Tail Base/Tail 1/Tail 2/Tail 3/Tail 4
+        weight: 1
+      - path: Armature/Hip/Tail Base/Tail 1/Tail 2/Tail 3/Tail 4/Tail 5
+        weight: 1
+      - path: Armature/Hip/Tail Base/Tail 1/Tail 2/Tail 3/Tail 4/Tail 5/Tail 7
+        weight: 1
+      - path: Armature/Hip/Tail Base/Tail 1/Tail 2/Tail 3/Tail 4/Tail 5/Tail 7/Tail
+          8
+        weight: 1
+      - path: Armature/Hip/Tail Base/Tail 1/Tail 2/Tail 3/Tail 4/Tail 5/Tail 7/Tail
+          8/Tail 9
+        weight: 1
+      - path: Armature/Hip/Tail Base/Tail 1/Tail 2/Tail 3/Tail 4/Tail 5/Tail 7/Tail
+          8/Tail 9/Tail 10
+        weight: 1
+      - path: Armature/Hip/Tail Base/Tail 1/Tail 2/Tail 3/Tail 4/Tail 5/Tail 7/Tail
+          8/Tail 9/Tail 10/Tail 11
+        weight: 1
+      - path: Armature/Hip/Tail Base/Tail 1/Tail 2/Tail 3/Tail 4/Tail 5/Tail 7/Tail
+          8/Tail 9/Tail 10/Tail 11/Tail 11_end
+        weight: 1
+      - path: Armature/Hip/Tits
+        weight: 1
+      - path: Armature/Hip/Tits/Tits_end
+        weight: 1
+      - path: Armature/Spine Lower
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.l
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.l/F Leg Mid.l
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.l/F Leg Mid.l/F
+          Leg Lower.l
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.l/F Leg Mid.l/F
+          Leg Lower.l/F Husk Upper.l
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.l/F Leg Mid.l/F
+          Leg Lower.l/F Husk Upper.l/F Husk Lower.l
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.l/F Leg Mid.l/F
+          Leg Lower.l/F Husk Upper.l/F Husk Lower.l/F Husk Lower.l_end
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.r
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.r/F Leg Mid.r
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.r/F Leg Mid.r/F
+          Leg Lower.r
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.r/F Leg Mid.r/F
+          Leg Lower.r/F Husk Upper.r
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.r/F Leg Mid.r/F
+          Leg Lower.r/F Husk Upper.r/F Husk Lower.r
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.r/F Leg Mid.r/F
+          Leg Lower.r/F Husk Upper.r/F Husk Lower.r/F Husk Lower.r_end
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base/Neck Lower
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base/Neck Lower/Neck
+          Mid
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base/Neck Lower/Neck
+          Mid/Neck Upper
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base/Neck Lower/Neck
+          Mid/Neck Upper/Skull
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base/Neck Lower/Neck
+          Mid/Neck Upper/Skull/Ear.l
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base/Neck Lower/Neck
+          Mid/Neck Upper/Skull/Ear.l/Ear.l_end
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base/Neck Lower/Neck
+          Mid/Neck Upper/Skull/Ear.r
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base/Neck Lower/Neck
+          Mid/Neck Upper/Skull/Ear.r/Ear.r_end
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base/Neck Lower/Neck
+          Mid/Neck Upper/Skull/Jaw Base
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base/Neck Lower/Neck
+          Mid/Neck Upper/Skull/Jaw Base/Jaw
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base/Neck Lower/Neck
+          Mid/Neck Upper/Skull/Jaw Base/Jaw/Jaw_end
+        weight: 1
+      - path: LP Cow
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: Armature|Idle
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Hip
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.l
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.l/B Leg Mid.l
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.l/B Leg Mid.l/B Leg Lower.l
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.l/B Leg Mid.l/B Leg Lower.l/B Husk Upper.l
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.l/B Leg Mid.l/B Leg Lower.l/B Husk Upper.l/B
+          Husk Lower.l
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.l/B Leg Mid.l/B Leg Lower.l/B Husk Upper.l/B
+          Husk Lower.l/B Husk Lower.l_end
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.r
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.r/B Leg Mid.r
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.r/B Leg Mid.r/B Leg Lower.r
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.r/B Leg Mid.r/B Leg Lower.r/B Husk Upper.r
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.r/B Leg Mid.r/B Leg Lower.r/B Husk Upper.r/B
+          Husk Lower.r
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.r/B Leg Mid.r/B Leg Lower.r/B Husk Upper.r/B
+          Husk Lower.r/B Husk Lower.r_end
+        weight: 1
+      - path: Armature/Hip/Tail Base
+        weight: 1
+      - path: Armature/Hip/Tail Base/Tail 1
+        weight: 1
+      - path: Armature/Hip/Tail Base/Tail 1/Tail 2
+        weight: 1
+      - path: Armature/Hip/Tail Base/Tail 1/Tail 2/Tail 3
+        weight: 1
+      - path: Armature/Hip/Tail Base/Tail 1/Tail 2/Tail 3/Tail 4
+        weight: 1
+      - path: Armature/Hip/Tail Base/Tail 1/Tail 2/Tail 3/Tail 4/Tail 5
+        weight: 1
+      - path: Armature/Hip/Tail Base/Tail 1/Tail 2/Tail 3/Tail 4/Tail 5/Tail 7
+        weight: 1
+      - path: Armature/Hip/Tail Base/Tail 1/Tail 2/Tail 3/Tail 4/Tail 5/Tail 7/Tail
+          8
+        weight: 1
+      - path: Armature/Hip/Tail Base/Tail 1/Tail 2/Tail 3/Tail 4/Tail 5/Tail 7/Tail
+          8/Tail 9
+        weight: 1
+      - path: Armature/Hip/Tail Base/Tail 1/Tail 2/Tail 3/Tail 4/Tail 5/Tail 7/Tail
+          8/Tail 9/Tail 10
+        weight: 1
+      - path: Armature/Hip/Tail Base/Tail 1/Tail 2/Tail 3/Tail 4/Tail 5/Tail 7/Tail
+          8/Tail 9/Tail 10/Tail 11
+        weight: 1
+      - path: Armature/Hip/Tail Base/Tail 1/Tail 2/Tail 3/Tail 4/Tail 5/Tail 7/Tail
+          8/Tail 9/Tail 10/Tail 11/Tail 11_end
+        weight: 1
+      - path: Armature/Hip/Tits
+        weight: 1
+      - path: Armature/Hip/Tits/Tits_end
+        weight: 1
+      - path: Armature/Spine Lower
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.l
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.l/F Leg Mid.l
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.l/F Leg Mid.l/F
+          Leg Lower.l
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.l/F Leg Mid.l/F
+          Leg Lower.l/F Husk Upper.l
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.l/F Leg Mid.l/F
+          Leg Lower.l/F Husk Upper.l/F Husk Lower.l
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.l/F Leg Mid.l/F
+          Leg Lower.l/F Husk Upper.l/F Husk Lower.l/F Husk Lower.l_end
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.r
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.r/F Leg Mid.r
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.r/F Leg Mid.r/F
+          Leg Lower.r
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.r/F Leg Mid.r/F
+          Leg Lower.r/F Husk Upper.r
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.r/F Leg Mid.r/F
+          Leg Lower.r/F Husk Upper.r/F Husk Lower.r
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.r/F Leg Mid.r/F
+          Leg Lower.r/F Husk Upper.r/F Husk Lower.r/F Husk Lower.r_end
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base/Neck Lower
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base/Neck Lower/Neck
+          Mid
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base/Neck Lower/Neck
+          Mid/Neck Upper
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base/Neck Lower/Neck
+          Mid/Neck Upper/Skull
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base/Neck Lower/Neck
+          Mid/Neck Upper/Skull/Ear.l
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base/Neck Lower/Neck
+          Mid/Neck Upper/Skull/Ear.l/Ear.l_end
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base/Neck Lower/Neck
+          Mid/Neck Upper/Skull/Ear.r
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base/Neck Lower/Neck
+          Mid/Neck Upper/Skull/Ear.r/Ear.r_end
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base/Neck Lower/Neck
+          Mid/Neck Upper/Skull/Jaw Base
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base/Neck Lower/Neck
+          Mid/Neck Upper/Skull/Jaw Base/Jaw
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base/Neck Lower/Neck
+          Mid/Neck Upper/Skull/Jaw Base/Jaw/Jaw_end
+        weight: 1
+      - path: LP Cow
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Moo
+      takeName: Armature|Moo
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Hip
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.l
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.l/B Leg Mid.l
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.l/B Leg Mid.l/B Leg Lower.l
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.l/B Leg Mid.l/B Leg Lower.l/B Husk Upper.l
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.l/B Leg Mid.l/B Leg Lower.l/B Husk Upper.l/B
+          Husk Lower.l
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.l/B Leg Mid.l/B Leg Lower.l/B Husk Upper.l/B
+          Husk Lower.l/B Husk Lower.l_end
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.r
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.r/B Leg Mid.r
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.r/B Leg Mid.r/B Leg Lower.r
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.r/B Leg Mid.r/B Leg Lower.r/B Husk Upper.r
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.r/B Leg Mid.r/B Leg Lower.r/B Husk Upper.r/B
+          Husk Lower.r
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.r/B Leg Mid.r/B Leg Lower.r/B Husk Upper.r/B
+          Husk Lower.r/B Husk Lower.r_end
+        weight: 1
+      - path: Armature/Hip/Tail Base
+        weight: 1
+      - path: Armature/Hip/Tail Base/Tail 1
+        weight: 1
+      - path: Armature/Hip/Tail Base/Tail 1/Tail 2
+        weight: 1
+      - path: Armature/Hip/Tail Base/Tail 1/Tail 2/Tail 3
+        weight: 1
+      - path: Armature/Hip/Tail Base/Tail 1/Tail 2/Tail 3/Tail 4
+        weight: 1
+      - path: Armature/Hip/Tail Base/Tail 1/Tail 2/Tail 3/Tail 4/Tail 5
+        weight: 1
+      - path: Armature/Hip/Tail Base/Tail 1/Tail 2/Tail 3/Tail 4/Tail 5/Tail 7
+        weight: 1
+      - path: Armature/Hip/Tail Base/Tail 1/Tail 2/Tail 3/Tail 4/Tail 5/Tail 7/Tail
+          8
+        weight: 1
+      - path: Armature/Hip/Tail Base/Tail 1/Tail 2/Tail 3/Tail 4/Tail 5/Tail 7/Tail
+          8/Tail 9
+        weight: 1
+      - path: Armature/Hip/Tail Base/Tail 1/Tail 2/Tail 3/Tail 4/Tail 5/Tail 7/Tail
+          8/Tail 9/Tail 10
+        weight: 1
+      - path: Armature/Hip/Tail Base/Tail 1/Tail 2/Tail 3/Tail 4/Tail 5/Tail 7/Tail
+          8/Tail 9/Tail 10/Tail 11
+        weight: 1
+      - path: Armature/Hip/Tail Base/Tail 1/Tail 2/Tail 3/Tail 4/Tail 5/Tail 7/Tail
+          8/Tail 9/Tail 10/Tail 11/Tail 11_end
+        weight: 1
+      - path: Armature/Hip/Tits
+        weight: 1
+      - path: Armature/Hip/Tits/Tits_end
+        weight: 1
+      - path: Armature/Spine Lower
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.l
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.l/F Leg Mid.l
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.l/F Leg Mid.l/F
+          Leg Lower.l
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.l/F Leg Mid.l/F
+          Leg Lower.l/F Husk Upper.l
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.l/F Leg Mid.l/F
+          Leg Lower.l/F Husk Upper.l/F Husk Lower.l
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.l/F Leg Mid.l/F
+          Leg Lower.l/F Husk Upper.l/F Husk Lower.l/F Husk Lower.l_end
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.r
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.r/F Leg Mid.r
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.r/F Leg Mid.r/F
+          Leg Lower.r
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.r/F Leg Mid.r/F
+          Leg Lower.r/F Husk Upper.r
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.r/F Leg Mid.r/F
+          Leg Lower.r/F Husk Upper.r/F Husk Lower.r
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.r/F Leg Mid.r/F
+          Leg Lower.r/F Husk Upper.r/F Husk Lower.r/F Husk Lower.r_end
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base/Neck Lower
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base/Neck Lower/Neck
+          Mid
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base/Neck Lower/Neck
+          Mid/Neck Upper
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base/Neck Lower/Neck
+          Mid/Neck Upper/Skull
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base/Neck Lower/Neck
+          Mid/Neck Upper/Skull/Ear.l
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base/Neck Lower/Neck
+          Mid/Neck Upper/Skull/Ear.l/Ear.l_end
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base/Neck Lower/Neck
+          Mid/Neck Upper/Skull/Ear.r
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base/Neck Lower/Neck
+          Mid/Neck Upper/Skull/Ear.r/Ear.r_end
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base/Neck Lower/Neck
+          Mid/Neck Upper/Skull/Jaw Base
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base/Neck Lower/Neck
+          Mid/Neck Upper/Skull/Jaw Base/Jaw
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base/Neck Lower/Neck
+          Mid/Neck Upper/Skull/Jaw Base/Jaw/Jaw_end
+        weight: 1
+      - path: LP Cow
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Tail Swipe
+      takeName: Armature|Tail Swipe
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Hip
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.l
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.l/B Leg Mid.l
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.l/B Leg Mid.l/B Leg Lower.l
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.l/B Leg Mid.l/B Leg Lower.l/B Husk Upper.l
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.l/B Leg Mid.l/B Leg Lower.l/B Husk Upper.l/B
+          Husk Lower.l
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.l/B Leg Mid.l/B Leg Lower.l/B Husk Upper.l/B
+          Husk Lower.l/B Husk Lower.l_end
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.r
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.r/B Leg Mid.r
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.r/B Leg Mid.r/B Leg Lower.r
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.r/B Leg Mid.r/B Leg Lower.r/B Husk Upper.r
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.r/B Leg Mid.r/B Leg Lower.r/B Husk Upper.r/B
+          Husk Lower.r
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.r/B Leg Mid.r/B Leg Lower.r/B Husk Upper.r/B
+          Husk Lower.r/B Husk Lower.r_end
+        weight: 1
+      - path: Armature/Hip/Tail Base
+        weight: 1
+      - path: Armature/Hip/Tail Base/Tail 1
+        weight: 1
+      - path: Armature/Hip/Tail Base/Tail 1/Tail 2
+        weight: 1
+      - path: Armature/Hip/Tail Base/Tail 1/Tail 2/Tail 3
+        weight: 1
+      - path: Armature/Hip/Tail Base/Tail 1/Tail 2/Tail 3/Tail 4
+        weight: 1
+      - path: Armature/Hip/Tail Base/Tail 1/Tail 2/Tail 3/Tail 4/Tail 5
+        weight: 1
+      - path: Armature/Hip/Tail Base/Tail 1/Tail 2/Tail 3/Tail 4/Tail 5/Tail 7
+        weight: 1
+      - path: Armature/Hip/Tail Base/Tail 1/Tail 2/Tail 3/Tail 4/Tail 5/Tail 7/Tail
+          8
+        weight: 1
+      - path: Armature/Hip/Tail Base/Tail 1/Tail 2/Tail 3/Tail 4/Tail 5/Tail 7/Tail
+          8/Tail 9
+        weight: 1
+      - path: Armature/Hip/Tail Base/Tail 1/Tail 2/Tail 3/Tail 4/Tail 5/Tail 7/Tail
+          8/Tail 9/Tail 10
+        weight: 1
+      - path: Armature/Hip/Tail Base/Tail 1/Tail 2/Tail 3/Tail 4/Tail 5/Tail 7/Tail
+          8/Tail 9/Tail 10/Tail 11
+        weight: 1
+      - path: Armature/Hip/Tail Base/Tail 1/Tail 2/Tail 3/Tail 4/Tail 5/Tail 7/Tail
+          8/Tail 9/Tail 10/Tail 11/Tail 11_end
+        weight: 1
+      - path: Armature/Hip/Tits
+        weight: 1
+      - path: Armature/Hip/Tits/Tits_end
+        weight: 1
+      - path: Armature/Spine Lower
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.l
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.l/F Leg Mid.l
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.l/F Leg Mid.l/F
+          Leg Lower.l
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.l/F Leg Mid.l/F
+          Leg Lower.l/F Husk Upper.l
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.l/F Leg Mid.l/F
+          Leg Lower.l/F Husk Upper.l/F Husk Lower.l
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.l/F Leg Mid.l/F
+          Leg Lower.l/F Husk Upper.l/F Husk Lower.l/F Husk Lower.l_end
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.r
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.r/F Leg Mid.r
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.r/F Leg Mid.r/F
+          Leg Lower.r
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.r/F Leg Mid.r/F
+          Leg Lower.r/F Husk Upper.r
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.r/F Leg Mid.r/F
+          Leg Lower.r/F Husk Upper.r/F Husk Lower.r
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.r/F Leg Mid.r/F
+          Leg Lower.r/F Husk Upper.r/F Husk Lower.r/F Husk Lower.r_end
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base/Neck Lower
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base/Neck Lower/Neck
+          Mid
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base/Neck Lower/Neck
+          Mid/Neck Upper
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base/Neck Lower/Neck
+          Mid/Neck Upper/Skull
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base/Neck Lower/Neck
+          Mid/Neck Upper/Skull/Ear.l
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base/Neck Lower/Neck
+          Mid/Neck Upper/Skull/Ear.l/Ear.l_end
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base/Neck Lower/Neck
+          Mid/Neck Upper/Skull/Ear.r
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base/Neck Lower/Neck
+          Mid/Neck Upper/Skull/Ear.r/Ear.r_end
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base/Neck Lower/Neck
+          Mid/Neck Upper/Skull/Jaw Base
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base/Neck Lower/Neck
+          Mid/Neck Upper/Skull/Jaw Base/Jaw
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base/Neck Lower/Neck
+          Mid/Neck Upper/Skull/Jaw Base/Jaw/Jaw_end
+        weight: 1
+      - path: LP Cow
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk
+      takeName: Armature|Walk
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Hip
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.l
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.l/B Leg Mid.l
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.l/B Leg Mid.l/B Leg Lower.l
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.l/B Leg Mid.l/B Leg Lower.l/B Husk Upper.l
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.l/B Leg Mid.l/B Leg Lower.l/B Husk Upper.l/B
+          Husk Lower.l
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.l/B Leg Mid.l/B Leg Lower.l/B Husk Upper.l/B
+          Husk Lower.l/B Husk Lower.l_end
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.r
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.r/B Leg Mid.r
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.r/B Leg Mid.r/B Leg Lower.r
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.r/B Leg Mid.r/B Leg Lower.r/B Husk Upper.r
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.r/B Leg Mid.r/B Leg Lower.r/B Husk Upper.r/B
+          Husk Lower.r
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.r/B Leg Mid.r/B Leg Lower.r/B Husk Upper.r/B
+          Husk Lower.r/B Husk Lower.r_end
+        weight: 1
+      - path: Armature/Hip/Tail Base
+        weight: 1
+      - path: Armature/Hip/Tail Base/Tail 1
+        weight: 1
+      - path: Armature/Hip/Tail Base/Tail 1/Tail 2
+        weight: 1
+      - path: Armature/Hip/Tail Base/Tail 1/Tail 2/Tail 3
+        weight: 1
+      - path: Armature/Hip/Tail Base/Tail 1/Tail 2/Tail 3/Tail 4
+        weight: 1
+      - path: Armature/Hip/Tail Base/Tail 1/Tail 2/Tail 3/Tail 4/Tail 5
+        weight: 1
+      - path: Armature/Hip/Tail Base/Tail 1/Tail 2/Tail 3/Tail 4/Tail 5/Tail 7
+        weight: 1
+      - path: Armature/Hip/Tail Base/Tail 1/Tail 2/Tail 3/Tail 4/Tail 5/Tail 7/Tail
+          8
+        weight: 1
+      - path: Armature/Hip/Tail Base/Tail 1/Tail 2/Tail 3/Tail 4/Tail 5/Tail 7/Tail
+          8/Tail 9
+        weight: 1
+      - path: Armature/Hip/Tail Base/Tail 1/Tail 2/Tail 3/Tail 4/Tail 5/Tail 7/Tail
+          8/Tail 9/Tail 10
+        weight: 1
+      - path: Armature/Hip/Tail Base/Tail 1/Tail 2/Tail 3/Tail 4/Tail 5/Tail 7/Tail
+          8/Tail 9/Tail 10/Tail 11
+        weight: 1
+      - path: Armature/Hip/Tail Base/Tail 1/Tail 2/Tail 3/Tail 4/Tail 5/Tail 7/Tail
+          8/Tail 9/Tail 10/Tail 11/Tail 11_end
+        weight: 1
+      - path: Armature/Hip/Tits
+        weight: 1
+      - path: Armature/Hip/Tits/Tits_end
+        weight: 1
+      - path: Armature/Spine Lower
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.l
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.l/F Leg Mid.l
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.l/F Leg Mid.l/F
+          Leg Lower.l
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.l/F Leg Mid.l/F
+          Leg Lower.l/F Husk Upper.l
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.l/F Leg Mid.l/F
+          Leg Lower.l/F Husk Upper.l/F Husk Lower.l
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.l/F Leg Mid.l/F
+          Leg Lower.l/F Husk Upper.l/F Husk Lower.l/F Husk Lower.l_end
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.r
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.r/F Leg Mid.r
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.r/F Leg Mid.r/F
+          Leg Lower.r
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.r/F Leg Mid.r/F
+          Leg Lower.r/F Husk Upper.r
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.r/F Leg Mid.r/F
+          Leg Lower.r/F Husk Upper.r/F Husk Lower.r
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.r/F Leg Mid.r/F
+          Leg Lower.r/F Husk Upper.r/F Husk Lower.r/F Husk Lower.r_end
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base/Neck Lower
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base/Neck Lower/Neck
+          Mid
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base/Neck Lower/Neck
+          Mid/Neck Upper
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base/Neck Lower/Neck
+          Mid/Neck Upper/Skull
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base/Neck Lower/Neck
+          Mid/Neck Upper/Skull/Ear.l
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base/Neck Lower/Neck
+          Mid/Neck Upper/Skull/Ear.l/Ear.l_end
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base/Neck Lower/Neck
+          Mid/Neck Upper/Skull/Ear.r
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base/Neck Lower/Neck
+          Mid/Neck Upper/Skull/Ear.r/Ear.r_end
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base/Neck Lower/Neck
+          Mid/Neck Upper/Skull/Jaw Base
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base/Neck Lower/Neck
+          Mid/Neck Upper/Skull/Jaw Base/Jaw
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base/Neck Lower/Neck
+          Mid/Neck Upper/Skull/Jaw Base/Jaw/Jaw_end
+        weight: 1
+      - path: LP Cow
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: LP Cow|Idle
+      takeName: LP Cow|Idle
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Hip
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.l
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.l/B Leg Mid.l
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.l/B Leg Mid.l/B Leg Lower.l
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.l/B Leg Mid.l/B Leg Lower.l/B Husk Upper.l
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.l/B Leg Mid.l/B Leg Lower.l/B Husk Upper.l/B
+          Husk Lower.l
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.l/B Leg Mid.l/B Leg Lower.l/B Husk Upper.l/B
+          Husk Lower.l/B Husk Lower.l_end
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.r
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.r/B Leg Mid.r
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.r/B Leg Mid.r/B Leg Lower.r
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.r/B Leg Mid.r/B Leg Lower.r/B Husk Upper.r
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.r/B Leg Mid.r/B Leg Lower.r/B Husk Upper.r/B
+          Husk Lower.r
+        weight: 1
+      - path: Armature/Hip/B Leg Upper.r/B Leg Mid.r/B Leg Lower.r/B Husk Upper.r/B
+          Husk Lower.r/B Husk Lower.r_end
+        weight: 1
+      - path: Armature/Hip/Tail Base
+        weight: 1
+      - path: Armature/Hip/Tail Base/Tail 1
+        weight: 1
+      - path: Armature/Hip/Tail Base/Tail 1/Tail 2
+        weight: 1
+      - path: Armature/Hip/Tail Base/Tail 1/Tail 2/Tail 3
+        weight: 1
+      - path: Armature/Hip/Tail Base/Tail 1/Tail 2/Tail 3/Tail 4
+        weight: 1
+      - path: Armature/Hip/Tail Base/Tail 1/Tail 2/Tail 3/Tail 4/Tail 5
+        weight: 1
+      - path: Armature/Hip/Tail Base/Tail 1/Tail 2/Tail 3/Tail 4/Tail 5/Tail 7
+        weight: 1
+      - path: Armature/Hip/Tail Base/Tail 1/Tail 2/Tail 3/Tail 4/Tail 5/Tail 7/Tail
+          8
+        weight: 1
+      - path: Armature/Hip/Tail Base/Tail 1/Tail 2/Tail 3/Tail 4/Tail 5/Tail 7/Tail
+          8/Tail 9
+        weight: 1
+      - path: Armature/Hip/Tail Base/Tail 1/Tail 2/Tail 3/Tail 4/Tail 5/Tail 7/Tail
+          8/Tail 9/Tail 10
+        weight: 1
+      - path: Armature/Hip/Tail Base/Tail 1/Tail 2/Tail 3/Tail 4/Tail 5/Tail 7/Tail
+          8/Tail 9/Tail 10/Tail 11
+        weight: 1
+      - path: Armature/Hip/Tail Base/Tail 1/Tail 2/Tail 3/Tail 4/Tail 5/Tail 7/Tail
+          8/Tail 9/Tail 10/Tail 11/Tail 11_end
+        weight: 1
+      - path: Armature/Hip/Tits
+        weight: 1
+      - path: Armature/Hip/Tits/Tits_end
+        weight: 1
+      - path: Armature/Spine Lower
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.l
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.l/F Leg Mid.l
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.l/F Leg Mid.l/F
+          Leg Lower.l
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.l/F Leg Mid.l/F
+          Leg Lower.l/F Husk Upper.l
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.l/F Leg Mid.l/F
+          Leg Lower.l/F Husk Upper.l/F Husk Lower.l
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.l/F Leg Mid.l/F
+          Leg Lower.l/F Husk Upper.l/F Husk Lower.l/F Husk Lower.l_end
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.r
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.r/F Leg Mid.r
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.r/F Leg Mid.r/F
+          Leg Lower.r
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.r/F Leg Mid.r/F
+          Leg Lower.r/F Husk Upper.r
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.r/F Leg Mid.r/F
+          Leg Lower.r/F Husk Upper.r/F Husk Lower.r
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/F Leg Upper.r/F Leg Mid.r/F
+          Leg Lower.r/F Husk Upper.r/F Husk Lower.r/F Husk Lower.r_end
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base/Neck Lower
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base/Neck Lower/Neck
+          Mid
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base/Neck Lower/Neck
+          Mid/Neck Upper
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base/Neck Lower/Neck
+          Mid/Neck Upper/Skull
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base/Neck Lower/Neck
+          Mid/Neck Upper/Skull/Ear.l
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base/Neck Lower/Neck
+          Mid/Neck Upper/Skull/Ear.l/Ear.l_end
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base/Neck Lower/Neck
+          Mid/Neck Upper/Skull/Ear.r
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base/Neck Lower/Neck
+          Mid/Neck Upper/Skull/Ear.r/Ear.r_end
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base/Neck Lower/Neck
+          Mid/Neck Upper/Skull/Jaw Base
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base/Neck Lower/Neck
+          Mid/Neck Upper/Skull/Jaw Base/Jaw
+        weight: 1
+      - path: Armature/Spine Lower/Spine Mid/Spine Upper/Neck Base/Neck Lower/Neck
+          Mid/Neck Upper/Skull/Jaw Base/Jaw/Jaw_end
+        weight: 1
+      - path: LP Cow
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

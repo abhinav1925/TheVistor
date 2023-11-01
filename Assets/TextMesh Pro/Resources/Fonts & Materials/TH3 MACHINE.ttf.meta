@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 39ac06f68323643be8b4b52c3cd68002
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - TH3 MACHINE
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a77b326311717491d85739f421140cf7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

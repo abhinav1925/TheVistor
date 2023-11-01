@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartGame.unity
+    guid: 95e1a3241937246dfa90cc5c8d1955c1
+  - enabled: 1
+    path: Assets/Scenes/The Visitor Day.unity
+    guid: 3c577bee71a8ffe4d9f76447fe80ca19
+  - enabled: 1
+    path: Assets/Scenes/The Visitor Getup.unity
+    guid: 4f3fa40311cfa4063ae2ea960b5c91d6
+  - enabled: 1
+    path: Assets/Scenes/The Visitor.unity
+    guid: 474ec5a1dd3f248b19e5c62c14eed0d6
+  - enabled: 1
+    path: Assets/Scenes/GameEnd.unity
+    guid: ea8f1a33adc6e4d86b9bd489db46c5fa
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 86e0e3cc118d340ed86a974d4155fe8b, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a48cc0f7f89a142fab8ddba893671fff, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 421e3372c68e54f0e8f7b896aacc636c, type: 2}
